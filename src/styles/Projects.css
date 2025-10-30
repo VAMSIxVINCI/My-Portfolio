@@ -1,0 +1,8 @@
+/* Projects.css */
+.projects-section{padding:3rem 0 6rem}
+.projects-section h2{color:var(--accent);margin-bottom:1.2rem}
+.projects-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem}
+.proj-card{background:rgba(255,255,255,0.02);padding:1.2rem;border-radius:12px;border-left:3px solid rgba(250,204,21,0.06)}
+.proj-card h4{margin-bottom:.4rem}
+.proj-card p{font-size:.95rem;color:var(--muted);margin-bottom:.8rem}
+.proj-card a{font-weight:600}
