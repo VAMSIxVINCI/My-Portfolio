@@ -17,9 +17,9 @@ export default function Hero() {
           <h3>Projects</h3>
           <ul>
             <li><a href="https://dynmcalculator.netlify.app">Dynamic Calculator</a></li>
-            <li><a href="https://vamsi-resume.netlify.app">AI Resume Builder</a></li>
+            <li><a href="https://resume.netlify.app">AI Resume Builder</a></li>
             <li><a href="https://vamsi-portfolio.netlify.app">Portfolio Website</a></li>
-            <li><a href="https://vamsi-weather.netlify.app">Weather App</a></li>
+            <li><a href="https://dynmcweather.netlify.app">Weather App</a></li>
           </ul>
         </div>
 
